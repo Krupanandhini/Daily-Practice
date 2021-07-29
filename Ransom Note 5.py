@@ -14,4 +14,3 @@ for i in mag:
 if(cou==0):
     print('false')
 
-Ransom Note 5
